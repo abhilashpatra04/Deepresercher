@@ -1,0 +1,9 @@
+groq
+google-generativeai
+streamlit
+requests
+PyMuPDF
+python-dotenv
+duckduckgo-search
+beautifulsoup4
+fpdf2

@@ -1,0 +1,39 @@
+{
+  "research_20260210_170712": {
+    "query": "give me what the paper is trying to teach in details",
+    "timestamp": "2026-02-10T17:07:12.633909",
+    "keywords": [
+      "give",
+      "paper",
+      "trying",
+      "teach",
+      "details",
+      "**overview**",
+      "aims",
+      "provide",
+      "comprehensive",
+      "framework",
+      "adaptation",
+      "agentic",
+      "crucial",
+      "mechanism",
+      "improving",
+      "performance",
+      "reliability",
+      "generalization",
+      "systems",
+      "authors",
+      "propose",
+      "systematic",
+      "spans",
+      "both",
+      "agent",
+      "adaptations",
+      "tool",
+      "providing",
+      "conceptual",
+      "foundation"
+    ],
+    "summary": "**Overview**\nThe paper aims to provide a comprehensive framework for adaptation in agentic AI, which is a crucial mechanism for improving performance, reliability, and generalization in AI systems. Th"
+  }
+}
